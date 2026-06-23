@@ -1,8 +1,8 @@
 # Slurm snap
 
-[![CI](https://github.com/charmed-hpc/slurm-snap/actions/workflows/ci.yaml/badge.svg)](https://github.com/charmed-hpc/slurm-snap/actions/workflows/ci.yaml)
-[![Release](https://github.com/charmed-hpc/slurm-snap/actions/workflows/release-to-candidate.yaml/badge.svg?branch=main)](https://github.com/charmed-hpc/slurm-snap/actions/workflows/release-to-candidate.yaml)
-![GitHub License](https://img.shields.io/github/license/charmed-hpc/slurm-snap)
+[![CI](https://github.com/canonical/slurm-snap/actions/workflows/ci.yaml/badge.svg)](https://github.com/canonical/slurm-snap/actions/workflows/ci.yaml)
+[![Release](https://github.com/canonical/slurm-snap/actions/workflows/release-to-candidate.yaml/badge.svg?branch=main)](https://github.com/canonical/slurm-snap/actions/workflows/release-to-candidate.yaml)
+![GitHub License](https://img.shields.io/github/license/canonical/slurm-snap)
 [![Matrix](https://img.shields.io/matrix/ubuntu-hpc%3Amatrix.org?logo=matrix&label=ubuntu-hpc)](https://matrix.to/#/#hpc:ubuntu.com)
 
 An all-in-one snap package for the [Slurm workload manager](https://slurm.schedmd.com).
@@ -74,8 +74,7 @@ can be modified using `snap`:
 
 If you want to learn more about all the things you can do with the Slurm snap, here are some further resources for you to explore:
 
-* [Open an issue](https://github.com/charmed-hpc/slurm-snap/issues)
-* [Ask a question on GitHub](https://github.com/orgs/charmed-hpc/discussions)
+* [Open an issue](https://github.com/canonical/slurm-snap/issues)
 
 ## 🛠️ Development
 
@@ -111,7 +110,6 @@ Here’s some links to help you get started with joining the community:
 * [Contributing guidelines](./CONTRIBUTING.md)
 * [Join the conversation on Matrix](https://matrix.to/#/#hpc:ubuntu.com)
 * [Get the latest news on Discourse](https://discourse.ubuntu.com/c/hpc/151)
-* [Ask and answer questions on GitHub](https://github.com/orgs/charmed-hpc/discussions/categories/q-a)
 
 ## 📋 License
 

@@ -14,7 +14,7 @@ The preferred way to report a security issue is through [GitHub Security Advisor
 [Privately reporting a security vulnerability][how-to-sec-vuln] for instructions on how to report a security vulnerability
 using GitHub's security advisory feature.
 
-[gsa]: https://github.com/charmed-hpc/slurm-snap/security/advisories/new
+[gsa]: https://github.com/canonical/slurm-snap/security/advisories/new
 [how-to-sec-vuln]: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability
 
 You may also send email to [security@ubuntu.com](mailto:security@ubuntu.com). Email may optionally be encrypted to OpenPGP
