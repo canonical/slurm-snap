@@ -7,12 +7,10 @@ Before you start working on your contribution, please familiarize yourself with 
 HPC project's contributing guide]. After you've gone through the main contributing guide,
 you can use this guide for specific information on contributing to the `slurm-snap` repository.
 
-Have any questions? Feel free to ask them in the [Ubuntu High-Performance Computing Matrix chat]
-or on [GitHub Discussions].
+Have any questions? Feel free to ask them in the [Ubuntu High-Performance Computing Matrix chat].
 
-[Charmed HPC project's contributing guide]: https://github.com/charmed-hpc/docs/blob/main/CONTRIBUTING.md
+[Charmed HPC project's contributing guide]: https://github.com/canonical/charmed-hpc-docs/blob/main/CONTRIBUTING.md
 [Ubuntu High-Performance Computing Matrix chat]: https://matrix.to/#/#hpc:ubuntu.com
-[GitHub Discussions]: https://github.com/orgs/charmed-hpc/discussions/categories/support
 
 ## Hacking on `slurm-snap`
 
@@ -95,4 +93,3 @@ and you make changes to that file in 2025, update the copyright year in the file
 ```text
 Copyright 2023-2025 Canonical Ltd.
 ```
-
