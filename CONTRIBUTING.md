@@ -9,7 +9,7 @@ you can use this guide for specific information on contributing to the `slurm-sn
 
 Have any questions? Feel free to ask them in the [Ubuntu High-Performance Computing Matrix chat].
 
-[Charmed HPC project's contributing guide]: https://github.com/canonical/charmed-hpc-docs/blob/main/CONTRIBUTING.md
+[Charmed HPC project's contributing guide]: https://github.com/canonical/hpc-team/blob/main/CONTRIBUTING.md
 [Ubuntu High-Performance Computing Matrix chat]: https://matrix.to/#/#hpc:ubuntu.com
 
 ## Hacking on `slurm-snap`
@@ -54,8 +54,6 @@ just integration
 
 By contributing to `slurm-snap`, you agree to license your contribution under
 the Apache License 2.0 license.
-
-
 
 ### Adding a new file to `slurm-snap`
 
