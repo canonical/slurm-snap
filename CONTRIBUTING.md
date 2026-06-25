@@ -7,10 +7,12 @@ Before you start working on your contribution, please familiarize yourself with 
 HPC project's contributing guide]. After you've gone through the main contributing guide,
 you can use this guide for specific information on contributing to the `slurm-snap` repository.
 
-Have any questions? Feel free to ask them in the [Ubuntu High-Performance Computing Matrix chat].
+Have any questions? Feel free to ask them in the [Ubuntu High-Performance Computing Matrix chat]
+or in the [High-Performance Computing category on the Ubuntu Discourse].
 
 [Charmed HPC project's contributing guide]: https://github.com/canonical/hpc-team/blob/main/CONTRIBUTING.md
 [Ubuntu High-Performance Computing Matrix chat]: https://matrix.to/#/#hpc:ubuntu.com
+[High-Performance Computing category on the Ubuntu Discourse]: https://discourse.ubuntu.com/c/project/hpc/151
 
 ## Hacking on `slurm-snap`
 
